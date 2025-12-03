@@ -1,0 +1,37 @@
+# This is the list of people who have contributed to this project but they are
+# not the principal creators. For example, company employees may be listed here
+# because their company holds the copyright and is listed in `AUTHORS.txt`.
+#
+# Creators from `AUTHORS.txt` can be listed here for unified processing
+# purposes. They are principal contributors regardless.
+#
+# List should be sorted as follows:
+#   1. [YEAR] in decending order; AND THEN
+#   2. Alphabetical order within the same [YEAR]
+#
+# Each entry **MUST COMPLY** with the following pattern:
+#     |Copyright [YEAR] [ENTITY_FULL_NAME] (OPTIONAL_URL) <OPTIONAL_EMAIL>|
+# Legends:
+#   * [YEAR]
+#       - the earliest year of interaction is suffice. Copyright works on first
+#         birth; not range or latest.
+#   * [ENTITY_FULL_NAME]
+#       - the legally reponsible entity's full name.
+#   * [OPTIONAL_URL]
+#       - the entity's provided URL to contact with.
+#       - It is enclosed with rounded parenthesis (**`( )`**) as defined by
+#         programming syntax for automation purposes.
+#       - When doing re-distribution, between the upstream source URL and the
+#         bio-page, choose the source first to maintain the upstream source
+#         location relationship.
+#       - This is optional if URL is unavailable. However, Copyright requires at
+#         least 1 contactable channel so ensure the alternatives are available.
+#   * **`[OPTIONAL_EMAIL]`**
+#       - the entity's provided email to contact with.
+#       - The address is enclosed with angled parenthesis (**`< >`**) as defined
+#         programming syntax for automation purposes.
+#       - This is optional if the email is unavailable. However, Copyright
+#         requires at least 1 contactable channel so ensure the alternatives are
+#         available.
+Copyright 2026 (Holloway) Chew, Kean Ho <hello@chewkeanho.com>
+Copyright 2012 Eduardo Rodríguez Tunni <edu@tipo.net.ar>
